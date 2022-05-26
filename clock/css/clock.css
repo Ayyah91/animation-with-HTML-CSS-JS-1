@@ -1,0 +1,13 @@
+body{
+    background-image: url("..//sources/d757e9a82c599ab4634ebc5f20dbc82f.gif");
+    background-position:relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100%;
+    width:100%;
+}
+
+#canvas{
+
+    margin-left: 25vw;  
+}
